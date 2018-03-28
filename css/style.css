@@ -56,13 +56,16 @@ header a:hover {
 	color: rgb(111,127,122);
 }
 
+a#wikipedia {
+    decoration: none;
+}
+
 #press {
   margin-bottom: 20px;
 }
 #press img {
 	border: 5px #ccc solid;
 	padding: 1px;
-
 }
 
 #press img:hover {
