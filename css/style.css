@@ -60,6 +60,6 @@ footer p {
 	margin: 0 0 20px 0;
 }
 
-#press:hover {
+#press img:hover {
   border-color: rgb(108, 127,122);
 }
