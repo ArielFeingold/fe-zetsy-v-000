@@ -56,8 +56,9 @@ header a:hover {
 	color: rgb(111,127,122);
 }
 
-#wikipedia {
-    decoration: none;
+#featured a {
+	color: #1783bb;
+	text-decoration: none;
 }
 
 #press {
