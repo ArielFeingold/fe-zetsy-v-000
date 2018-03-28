@@ -46,7 +46,9 @@ p {
 }
 
 /*///////////COLUMN IMAGES*/
-
+#press {
+  margin-bottom: 20px;
+}
 #press img {
 	border: 5px #ccc solid;
 	padding: 1px;
@@ -59,7 +61,6 @@ p {
 }
 
 footer p {
-  margin-top: 20px;
 	text-align: right;
 	font-size: 0.8em;
 	color: #555;
