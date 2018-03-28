@@ -54,7 +54,8 @@ p {
 }
 
 #press img:hover {
-
+  border: 5px rgb(108, 127, 122) solid;
+  padding: 1px;
 }
 
 footer p {
