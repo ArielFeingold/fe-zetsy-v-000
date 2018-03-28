@@ -61,5 +61,5 @@ footer p {
 }
 
 #press:hover {
-  border: 5px rgb(108, 127,122) solid;
+  border-color: rgb(108, 127,122);
 }
