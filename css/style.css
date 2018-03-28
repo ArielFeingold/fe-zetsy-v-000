@@ -66,7 +66,7 @@ header a:hover {
 }
 
 #press img:hover {
-  border: 5px black solid;
+  border: 5px rgb(108, 127, 122) solid;
   padding: 1px;
 }
 
